@@ -2,7 +2,7 @@
 My name is Victor Bittencourt, formely know as VicourtBitt around the internet. 
 My first real code-line was in Arduino-IDE (2.10) creating the "Green-House" project to my class project.
 
-Until now, I'm a self-taught "programmer", I hope that in 3 months I somehow manage to enter a university.
+Until now, I'm a self-taught "programmer", I hope that in 3 months I somehow manage to enter into an university.
 
 ## Abilities/Skills
 
