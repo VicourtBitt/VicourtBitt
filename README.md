@@ -5,9 +5,6 @@ My first real code-line was in Arduino-IDE (2.10) creating the "Green-House" pro
 Until now, I'm a self-taught "programmer", I hope that in 3 months I somehow manage to enter a university.
 
 ## Abilities/Skills
-My principal abilities are:
-- Python and C (programming languages);
-- MQTT & JSON (communication methods or "storages").
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -15,9 +12,6 @@ My principal abilities are:
 ![JSON](https://img.shields.io/badge/JSON-F7DF1E?style=for-the-badge&logo=JSON&logoColor=black)
 
 ## Abilities That I'm Working On
-- HTML, CSS and JavaScript;
-- FastAPI, DJango;
-- AWS, MySQL and Docker;
   
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
