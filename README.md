@@ -12,7 +12,8 @@ Desenvolvi meu primeiro programa (um sistema de manutenção para uma estufa) pr
 
 > "Aprendizado é um processo gradual, não instantâneo."
 
-### Important 
+### Projetos em Andamento
+[IntraNet Python Chat v1.1](https://github.com/VicourtBitt/Intranet_Python_Chat) — RoadMap em breve!
 
 ### Links
 [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VicourtBitt)
