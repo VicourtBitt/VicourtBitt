@@ -1,4 +1,4 @@
-![About Me Banner](https://github.com/VicourtBitt/VicourtBitt/presentation__banner.jpg)
+![About Me Banner](https://github.com/VicourtBitt/VicourtBitt/blob/main/presentation__banner.jpg)
 
 # Quem sou eu?
 
@@ -8,7 +8,7 @@ Tenho 20 anos, formado como Técnico de Mecatrônica, atualmente sou um programa
 
 Desenvolvi meu primeiro programa (um sistema de manutenção para uma estufa) próximo do fim de 2022, durante uma aula de prototipação no SENAI com Arduino, C++ e TinkerCAD. A partir desse ponto desenvolvi um interesse em IoT e processamento de dados. 
 
-[Supervisório Estufa - UNO R3](https://github.com/VicourtBitt/VicourtBitt/greenHouseVBitt.ino)
+[Supervisório Estufa - UNO R3](https://github.com/VicourtBitt/VicourtBitt/blob/main/greenHouseVBitt.ino)
 
 > "Aprendizado é um processo gradual, não instantâneo."
 
