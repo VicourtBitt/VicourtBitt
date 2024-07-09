@@ -19,4 +19,4 @@ Desenvolvi meu primeiro programa (um sistema de manutenção para uma estufa) pr
 [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VicourtBitt)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicourtbitt)
 [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@VicourtBittProjects)
-[![instagram](https://img.shields.io/badge/instagram-ff3399?style=for-the-badge&logo=instagram&logoColor=white)](https://www.youtube.com/@VicourtBittProjects)
+[![instagram](https://img.shields.io/badge/instagram-ff3399?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_vicourtdev/)
