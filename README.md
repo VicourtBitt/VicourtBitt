@@ -15,6 +15,11 @@ Desenvolvi meu primeiro programa (um sistema de manutenção para uma estufa) pr
 ### Projetos em Andamento
 [IntraNet Python Chat v1.1](https://github.com/VicourtBitt/Intranet_Python_Chat) — RoadMap em breve!
 
+<img src="https://streak-stats.demolab.com/?user=VicourtBitt&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=5&order=3">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VicourtBitt&theme=transparent"> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VicourtBitt&theme=transparent">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VicourtBitt&theme=transparent&exclude={exclude}">
+
 ### Links
 [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VicourtBitt)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicourtbitt)
