@@ -1,4 +1,4 @@
-![About Me Banner](https://github.com/VicourtBitt/VicourtBitt/blob/main/banner.jpg)
+![About Me Banner](https://github.com/VicourtBitt/VicourtBitt/blob/main/banner-26-03-25.png)
 
 # Quem sou eu?
 
